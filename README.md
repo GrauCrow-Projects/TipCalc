@@ -1,9 +1,9 @@
 # Tip Calculator Collaborative Project
 
 ## Languages Used:
-  - * *HTML5* *
-  - * *CSS3* *
-  - * *JS(ES6+)* *
+  - * *HTML5* 
+  - * *CSS3* 
+  - * *JS(ES6+)* 
   
 ## Project Logic:
   - Input a multiple input values
